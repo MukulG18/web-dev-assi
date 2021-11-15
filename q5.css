@@ -1,0 +1,26 @@
+.number-table {
+    border-collapse: collapse;
+    width: 100%;
+    border: 2px solid rgb(0, 0, 0);
+    text-align: center;
+}
+
+th, td {
+    border: 4px solid rgb(0, 0, 0);
+    width: 50px;
+}
+
+.btn {
+    font-size: 1rem;
+    padding: 5px 10px;
+    margin: 10px;
+    border: 1px solid rgb(0, 0, 0);
+}
+
+.align {
+    text-align: center;
+}
+
+.hide {
+    display: none;
+}
